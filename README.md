@@ -5,6 +5,8 @@
 Este repositorio reúne los programas y ejercicios desarrollados durante el curso de **Programación en Python**.  
 Cada archivo refleja la aplicación práctica de los temas vistos en clase y el uso de las principales estructuras del lenguaje.
 
+---
+
 ## Contenido
 Los programas incluyen ejemplos sobre:
 
@@ -17,6 +19,8 @@ Los programas incluyen ejemplos sobre:
 - **Manejo de archivos** (`open`, `read`, `write`) para leer y guardar información en formato texto.  
 - **Validación de datos y manejo de errores** con estructuras `try-except`.  
 
+---
+
 ## Habilidades desarrolladas
 Durante el desarrollo de estos ejercicios se reforzaron competencias como:
 
@@ -26,6 +30,7 @@ Durante el desarrollo de estos ejercicios se reforzaron competencias como:
 - Uso de funciones, estructuras y colecciones para resolver problemas reales.  
 - Implementación de pequeños sistemas de registro, cálculo y control mediante Python.  
 
+---
 
 ## Autor
 **Ernesto Daniel Piña Pérez**  
@@ -34,8 +39,13 @@ Interesado en programación, electrónica y desarrollo de sistemas embebidos.
 
 📍 México  
 📧 Contacto: ernesto.dperez.eng@gmail.com  
-🔗 LinkedIn: [www.linkedin.com/in/ernesto-daniel-piña-pérez-47789b28a](https://www.linkedin.com/in/ernesto-daniel-pi%C3%B1a-p%C3%A9rez-47789b28a)
-💻 GitHub: *(pendiente de agregar)*
+🔗 LinkedIn: [www.linkedin.com/in/ernesto-daniel-piña-pérez-47789b28a](https://www.linkedin.com/in/ernesto-daniel-pi%C3%B1a-p%C3%A9rez-47789b28a)  
+💻 GitHub: *(pendiente de agregar)*  
+
+---
+
+### Información adicional
+Este repositorio fue elaborado como parte del **Curso de Programación en Python**, impartido en el marco de las actividades académicas del **CIC UPIITA IEEE IPN**, bajo la guía y coordinación de **Marcos Guillermo Castrejón Ramírez**.  
+El proyecto forma parte del proceso de formación y desarrollo de habilidades en programación estructurada, modular y orientada a objetos.
 
 
-> Este repositorio forma parte de mi formación en programación, y busca mostrar de manera práctica los conocimientos adquiridos en Python.
