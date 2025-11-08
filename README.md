@@ -40,7 +40,9 @@ Interesado en programación, electrónica y desarrollo de sistemas embebidos.
 📍 México  
 📧 Contacto: ernesto.dperez.eng@gmail.com  
 🔗 LinkedIn: [www.linkedin.com/in/ernesto-daniel-piña-pérez-47789b28a](https://www.linkedin.com/in/ernesto-daniel-pi%C3%B1a-p%C3%A9rez-47789b28a)  
-💻 GitHub: *(pendiente de agregar)*  
+💻 GitHub: [github.com/DaniDperez](https://github.com/DaniDperez)
+
+ 
 
 ---
 
